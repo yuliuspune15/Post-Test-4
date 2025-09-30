@@ -32,7 +32,7 @@ Metode ini wajib diimplementasikan oleh setiap subclass (Member dan Reguler), ya
 Interface: Lapangan dideklarasikan sebagai interface, yang mendefinisikan kontrak fungsionalitas tambahan pada objek lapangan (misalnya, getBiayaTambahan()), yang diimplementasikan oleh LapanganIndoor.
 
 4. Polymorphism (Polimorfisme - Banyak Bentuk)
-   A. Method Overloading
+A. Method Overloading
 Implementasi: Diterapkan pada kelas AktivitasService dengan dua method bernama sama:
 tambahReservasi(ReservasiReguler reservasi)
 tambahReservasi(ReservasiMember reservasi)
